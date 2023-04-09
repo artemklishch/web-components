@@ -1,0 +1,10 @@
+.custom {
+  color: red;
+  display: block;
+}
+.hidden {
+  display: none;
+}
+div {
+  border: 2px solid orange;
+}
