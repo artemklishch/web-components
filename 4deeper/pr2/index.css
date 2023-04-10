@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+html {
+  --color-primary: lightblue;
+}
+
+.custom {
+  color: red;
+  display: block;
+}
+.hidden {
+  display: none;
+}
+
+.customElem {
+  background-color: green;
+}

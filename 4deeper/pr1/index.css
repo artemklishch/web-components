@@ -1,0 +1,23 @@
+.custom {
+  color: red;
+  display: block;
+}
+.hidden {
+  display: none;
+}
+div {
+  border: 2px solid orange;
+}
+.highlight {
+  background-color: rgb(236, 206, 106);
+  /* border-bottom: 1px solid blue; */
+}
+
+akuc-tooltip {
+  border: 1px solid blue;
+  padding: 0.15rem;
+}
+
+.customElem{
+  /* background-color: green; */
+}

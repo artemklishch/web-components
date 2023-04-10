@@ -9,7 +9,7 @@ class Tooltip extends HTMLElement {
     this.appendChild(tooltipIcon);
   } // when DOM is mounted, here we can attach our caustom element
   disconnectedCallback() {} // when DOM tree is destroyed, here we can make cleanup logic
-  attributeChangedCallback() {} // observes changes of attrubutes values and DOM and is executed at this moment of time
+  attributeChangedCallback(attrName, oldValue, newValue) {} // observes changes of attrubutes values and DOM and is executed at this moment of time
   // lifesycle methods ==== end
 }
 
