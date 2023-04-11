@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 2rem;
+  font-family: sans-serif;
+}
+.input{
+  letter-spacing: 5px;
+}
